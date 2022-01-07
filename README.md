@@ -17,7 +17,7 @@ The following pictures demonstrates the application functionality:
 
 
 
-### Deployment: 32%
+### Deployment: 
 
 * Application deployed at live URL
 
