@@ -1,20 +1,15 @@
 # Third-Party APIs: Work Day Scheduler
 
-## My Task
+## My Task For This Homework
 
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+To create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 
-## User Story
+## The following pictures demonstrates the application functionality:
 
-```md
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
-```
+![alt text](assets/ScreenShot1.png)
 
-The following pictures demonstrates the application functionality:
-
+![alt text](assets/ScreenShot2.png)
 
 
 ### Deployment: 
