@@ -70,6 +70,11 @@ textarea {
   transition: all 0.3s ease-in-out;
 }
 
+.saveBtn:active {
+  background-color: #06aed5;
+  transform: translateY(3px);
+}
+
 .fa-save {
-  font-size: 1.8rem;
+  font-size: 2rem;
 }
